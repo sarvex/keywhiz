@@ -1,0 +1,16 @@
+build
+upload-artifact.sh
+atlassian-ide-plugin.xml
+out
+tmp
+.idea/
+target/
+.classpath
+.project
+.settings
+eclipsebin
+website/apidocs
+*.iml
+*.ipr
+*.iws
+.DS_Store
